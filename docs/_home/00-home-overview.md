@@ -1,5 +1,5 @@
 ---
-title: "Workshop Home Page"
+title: "Administrator Workbook"
 permalink: /
 excerpt: "Overview of Workshop Prerequisites"
 last_modified_at: 2019-10-25
