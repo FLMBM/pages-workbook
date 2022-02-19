@@ -1,8 +1,8 @@
 ---
-title: "Workshop Prerequisites"
+title: "Org. Schema"
 permalink: /prerequisites/overview/
-excerpt: "Overview of Workshop Prerequisites"
-last_modified_at: 2019-10-25
+excerpt: "Overview of the Organization's Production Schema"
+last_modified_at: 2022-02-19
 toc: false
 classes: wide
 ---
