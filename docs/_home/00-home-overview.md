@@ -7,10 +7,12 @@ toc: false
 classes: wide
 ---
 
-There are are several pre-workshop activities that students **must** complete before the hands-on activities can be attempted.
+Welcome to our Admin. Configuration Workbook! Please refer to this document prior to **any and all** alterations to the production organization. Below are the topics of this workbook.
 
-* Prerequisite task one
-* Prerequisite task two
-* Prerequisite task three
+* Organization Schema
+* User Management
+* Details about automation
+* and more 
+  
 
-The documentation in this section will help you complete these prerequisites.
+The documentation in this section will help prevent technical debt, enforce best practice, and aide in decisions.
