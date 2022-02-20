@@ -110,15 +110,15 @@ part_2:
       - title: "Exercise Three"
         url: /part-two/unit-two/exercise-three/
 
-  - title: "Unit 3: Unit Three Title"
+  - title: "User Management"
     children:
-      - title: "Unit Overview"
-        url: /part-two/unit-three/overview/
-      - title: "Exercise One"
+      - title: "Overview"
+        url: /part-two/user-management/overview/
+      - title: "Roles"
         url: /part-two/unit-three/exercise-one/
-      - title: "Exercise Two"
+      - title: "Profiles"
         url: /part-two/unit-three/exercise-two/
-      - title: "Exercise Three"
+      - title: "Permission Sets"
         url: /part-two/unit-three/exercise-three/
 
   - title: "Closing"
