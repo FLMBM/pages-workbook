@@ -2,9 +2,9 @@
 main:
   - title: "Home"
     url: /prerequisites/overview/
-  - title: "Introduction"
+  - title: "User Management"
     url: /part-one/overview/
-  - title: "Documentation"
+  - title: "Pre-Rebuild Docs"
     url: /part-two/overview/
 
 # Home Page Links
