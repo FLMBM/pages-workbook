@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "Prerequisites"
+  - title: "Home"
     url: /prerequisites/overview/
-  - title: "Part One"
+  - title: "Introduction"
     url: /part-one/overview/
-  - title: "Part Two"
+  - title: "Documentation"
     url: /part-two/overview/
 
 # Home Page Links
